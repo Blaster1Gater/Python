@@ -1,0 +1,3 @@
+# Forçar detecção de linguagens
+*.py linguist-language=Python
+
