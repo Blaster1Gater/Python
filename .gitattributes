@@ -1,3 +1,5 @@
 # Forçar detecção de linguagens
 *.* linguist-language=Python
 
+*.html linguist-vendored
+*.html linguist-documentation
